@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FzDgCFnwzifAudIuJg05iv3L2W43G2RAgynG24JE5DE=",
+  "Source": "SmartExpenseTracker.API",
+  "BasePath": "_content/SmartExpenseTracker.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
