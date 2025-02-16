@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\SmartExpenseTracker.API.props" />
-</Project>
